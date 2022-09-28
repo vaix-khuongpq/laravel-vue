@@ -4,6 +4,7 @@
             <h2 id="title">Todo List</h2>
             <add-item-form></add-item-form>
             <list-view/>
+            <list-item></list-item>
         </div>
     </div>
 </template>
@@ -11,12 +12,14 @@
 <script>
 import addItemForm from "./addItemForm"
 import listView from "./listView"
+import listItem from "./listItem";
 
 export default {
     name: "app",
     components: {
         addItemForm,
-        listView
+        listView,
+        listItem
     }
 
 }

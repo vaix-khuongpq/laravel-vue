@@ -1,5 +1,5 @@
 <template>
-list view
+<h1>DHUEFGU</h1>
 </template>
 
 <script>
