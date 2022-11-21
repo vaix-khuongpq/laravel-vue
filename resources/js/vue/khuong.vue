@@ -1,5 +1,5 @@
 <template>
-    <h1>dhu khuong u</h1>
+    <h1>p q khuong</h1>
 </template>
 
 <script>
